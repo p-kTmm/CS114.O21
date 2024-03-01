@@ -6,6 +6,7 @@
 <!-- Title -->
 <h1 align="center"><b>CS114.O21 - MÁY HỌC</b></h1>
 <img align="center" src="https://www.smartdatacollective.com/wp-content/uploads/2021/06/machine-learning-helps-life-insurance-scaled.jpg" alt="Machine Learning">
+
 ## BẢNG MỤC LỤC
 * [ Giới thiệu môn học](#gioithieumonhoc)
 * [Quá trình môn học](#quatrinh)

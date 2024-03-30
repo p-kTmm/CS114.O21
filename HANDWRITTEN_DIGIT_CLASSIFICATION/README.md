@@ -1,38 +1,16 @@
 # THỰC HÀNH CS114-LAB01: HANDWRITTEN DIGIT CLASSIFICATION
 
-## Handwritten digit data
+## Data: Handwritten digit 
 ```bash
-file num_data.zip
+num_data.zip
 ```
 
 
 ## Run
-**Step 1:** Run ```testmaker.py``` script to determine the number of suitable files for execution. All these files will be stored in the ```MyTest``` folder.
-```bash
-python testmaker.py
-```
+**Final_CS114_2024_DigitClassification.ipynb:** Sử dụng file này trên colab để train model từ ```MNIST dataset```, sau đó đánh giá độ hiệu quả của mô hình dựa trên ```Handwritten digit dataset```
 
-**Step 2:** Execute ```knapsackOR.py``` to use Google's OR Tools for solving all test cases stored in the ```MyTest``` folder. The results will be saved in ```result.csv```.
-```bash
-python knapsackOR.py
-```
 
-## File Structure
-```
-Knapsack_OR/
-│
-├── testmaker.py
-│
-├── knapsackOR.py
-│
-├── kplib/
-│   ├── (data)
-│   ├── ...
-│   └── ...
-│
-└── MyTest/
-    ├── (All files are chosen)
-    ├── ...
-    └── ...
-```
+## Quá trình xử lý ảnh trước khi đưa vào model để dự đoán
+![preprocess](images/Hinh1.png)
+![preprocess](images/Hinh2.png)
 

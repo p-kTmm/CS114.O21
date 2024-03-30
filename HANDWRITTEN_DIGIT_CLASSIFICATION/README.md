@@ -7,7 +7,7 @@ num_data.zip
 
 
 ## Run
-Sử dụng file .ipynb để train model từ ```MNIST dataset```, sau đó đánh giá độ hiệu quả của mô hình dựa trên ```Handwritten digit dataset```
+Sử dụng file ```Final_CS114_2024_DigitClassification.ipynb``` để train model từ ```MNIST dataset```, sau đó đánh giá độ hiệu quả của mô hình dựa trên ```Handwritten digit dataset```
 ```bash
 Final_CS114_2024_DigitClassification.ipynb
 ```

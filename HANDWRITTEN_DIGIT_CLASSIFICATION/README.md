@@ -1,8 +1,8 @@
 # THỰC HÀNH CS114-LAB01: HANDWRITTEN DIGIT CLASSIFICATION
 
-## Download data
+## Handwritten digit data
 ```bash
-git clone https://github.com/likr/kplib
+file num_data.zip
 ```
 
 

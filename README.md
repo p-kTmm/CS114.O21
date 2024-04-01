@@ -28,7 +28,7 @@
 
 <a name ="colab"></a>
 ### 2.COLAB ASSSIGNMENTS
-[THỰC HÀNH LAB01: Handwritten Digit Classification](https://github.com/p-kTmm/CS114.O21/tree/main/HANDWRITTEN_DIGIT_CLASSIFICATION)
+[THỰC HÀNH LAB01: Handwritten Digit Classification](https://github.com/p-kTmm/CS114.O21/tree/main/LAB01)
 
 
 <a name ="QT"></a>

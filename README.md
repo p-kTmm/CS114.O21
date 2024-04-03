@@ -43,7 +43,7 @@
 <a name="thanhvien"></a>
 | STT    | MSSV          | Họ và Tên              | Github                                               | Email                   |
 | ------ |:-------------:| ----------------------:|-----------------------------------------------------:|-------------------------:
-| 1      | 22521293      |                        |[Nguyễn Vũ Khai Tâm](https://github.com/vd)           |22521293@gm.uit.edu.vn   |
+| 1      | 22521293      | Nguyễn Vũ Khai Tâm     |[Nguyễn Vũ Khai Tâm](https://github.com/vd)           |22521293@gm.uit.edu.vn   |
 | 2      |               |                        |                                                      |        @gm.uit.edu.vn   |
 | 3      |               |                        |                                                      |        @gm.uit.edu.vn   |
 
